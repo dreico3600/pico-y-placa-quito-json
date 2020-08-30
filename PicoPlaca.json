@@ -68,12 +68,12 @@
     "LastDigitPlate": [ 9, 0 ],
     "RestrictedHoursByDay": [
       {
-        "name": "MORNING",
+        "DayPart": "MORNING",
         "start": "07:00",
         "finish": "09:30"
       },
       {
-        "name": "AFTERNOON",
+        "DayPart": "AFTERNOON",
         "start": "16:00",
         "finish": "19:30"
       }
